@@ -1,0 +1,65 @@
+.dropdown-toggle {
+	background: red;
+	font-weight: bold;
+	font-color: white;
+}
+
+.dropdown-menu:after {
+	background-image: url()
+}
+
+.container-fluid {
+	margin: 0 10px 0 10px;
+	padding: 10px;
+}
+
+
+.wrapper-left {
+	width: 10px;
+}
+.left-unicorn {
+	float: left;
+	height: 310px;
+	background-image: url("http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2014/08/unicorn.png");
+	background-size: 100% auto;
+	background-position: center;
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+
+.right {
+	height: 300px;
+	float: right;
+	display: inline-block;
+}
+
+.wrapper {
+	
+}
+
+.incognito {
+	height: 168.23px;
+	background-image: url("http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/01/Incognito.jpg");
+	background-size: 100% auto;
+	background-position: center;
+	background-repeat: no-repeat;
+	display: inline-block;
+}
+
+.shutterstock {
+	height: 168.23px;
+	background-image: url("http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/01/shutterstock_306793247.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+  	background-position: center;
+  	display: inline-block;
+}
+
+.google {
+	height: 168.23px;
+	background-image: url("http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2014/12/1210_googlecardboard.jpg");
+	background-repeat: no-repeat;
+  	background-size: 100% auto;
+  	background-position: center;
+  	display: inline-block;
+}
